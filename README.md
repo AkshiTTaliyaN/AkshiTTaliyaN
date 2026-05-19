@@ -41,4 +41,4 @@ Building AI tools and security systems that actually work.
 
 ## connect
 
-[linkedin](https://linkedin.com/in/akshit-taliyan) · [github](https://github.com/AkshiTTaliyaN)
+[linkedin](https://linkedin.com/in/akshit-taliyan) 
