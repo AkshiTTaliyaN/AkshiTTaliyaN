@@ -23,12 +23,6 @@ Building AI tools and security systems that actually work.
 
 ---
 
-## Github stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AkshiTTaliyaN&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
----
-
 ## Currently
 
 - making airwrite, an extended and upgraded version of Ghostpen
