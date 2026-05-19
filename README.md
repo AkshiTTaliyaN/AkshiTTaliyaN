@@ -2,14 +2,14 @@
 
 CS Undergrad @ Amity University, Noida · Graduating 2027
 
-Building ai tools and security systems that actually work.
+Building AI tools and security systems that actually work.
 
 ---
 
 ## What I built
 
 - **GhostPen** → real-time air-drawing via CNN + MediaPipe gesture recognition · 90% accuracy
-- **Argus** → multi-vector web security auditor — port scanning, SSL, DNS, HTTP headers, A–F risk grading
+- **Argus** → multi-vector web security auditor: port scanning, SSL, DNS, HTTP headers, A–F risk grading
 
 ---
 
