@@ -1,16 +1,44 @@
-## Hi there 👋
+# Akshit Taliyan
 
-<!--
-**AkshiTTaliyaN/AkshiTTaliyaN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS Undergrad @ Amity University, Noida · Graduating 2027
 
-Here are some ideas to get you started:
+Building ai tools and security systems that actually work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I built
+
+- **GhostPen** → real-time air-drawing via CNN + MediaPipe gesture recognition · 90% accuracy
+- **Argus** → multi-vector web security auditor — port scanning, SSL, DNS, HTTP headers, A–F risk grading
+
+---
+
+## Tech
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+---
+
+## Github stats
+
+![Akshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkshiTTaliyaN&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AkshiTTaliyaN&theme=tokyonight&hide_border=true)
+
+---
+
+## Currently
+
+- making airwrite, an extended and upgraded version of Ghostpen
+- expanding GhostPen dataset · improving gesture accuracy
+- targeting AI/ML & cybersecurity internships
+
+---
+
+## connect
+
+[linkedin](https://linkedin.com/in/akshit-taliyan) · [github](https://github.com/AkshiTTaliyaN)
