@@ -25,9 +25,9 @@ Building AI tools and security systems that actually work.
 
 ## Currently
 
-- making airwrite, an extended and upgraded version of Ghostpen
-- expanding GhostPen dataset · improving gesture accuracy
-- targeting AI/ML & cybersecurity internships
+- Making airwrite, an extended and upgraded version of Ghostpen
+- Expanding GhostPen dataset · improving gesture accuracy
+- Targeting AI/ML & cybersecurity internships
 
 ---
 
